@@ -1,0 +1,17 @@
+{
+  "version": 1.0,
+  "shiba_themes": [
+    {
+      "id": "theme_001",
+      "name": "圣诞柴犬",
+      "preview_url": "images/shiba_xmas.png",
+      "is_free": true
+    },
+    {
+      "id": "theme_002",
+      "name": "新年柴犬",
+      "preview_url": "images/shiba_newyear.png",
+      "is_free": false
+    }
+  ]
+}
